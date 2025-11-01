@@ -7,7 +7,7 @@ git submodule init && git submodule update
 
 export KERNEL_ROOT="$(pwd)"
 export ARCH=arm64
-export KBUILD_BUILD_USER="@ravindu644"
+export KBUILD_BUILD_USER="@ZaraKinYu"
 
 # Function to detect OS and install dependencies
 install_dependencies() {
